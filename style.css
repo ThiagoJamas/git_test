@@ -43,3 +43,7 @@ th {
 
 tr:nth-child(even) {background-color: #c7dfd6;}
 tr:hover {background-color: rgb(15, 80, 58); color:white;}
+
+ul {
+    text-align: left;
+}
